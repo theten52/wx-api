@@ -1,0 +1,2 @@
+-- 创建微信数据库
+CREATE DATABASE wx DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
